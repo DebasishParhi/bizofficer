@@ -1,0 +1,77 @@
+.navbar{
+    height: 60px;
+    width: 100%;
+    border: 1px solid black;
+    display: flex;
+    background-color: blue;
+}
+.icon{
+    margin-left: 2%;
+    padding: 5px 5px;
+}
+.img{
+    padding: 10px 5px;
+    height: 40px;
+    width: 90%;
+    margin-left: 35%;
+}
+.dash{
+    font-size: 25px;
+    margin-left: 6%;
+    padding: 10px 5px;
+    color: white;
+}
+.logout{
+    margin-left: 70%;
+    padding: 10px 5px;
+}
+.secondmain{
+    display: flex;
+}
+.secondmain>div{
+    height: 135px;
+    width: 15%;
+    margin-left: 2%;
+    border-radius: 5px;
+    margin-top: 2%;
+    border-top-color:rgb(227,147,33);
+    border-top-style: solid;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;    
+}
+.secondmain>div>p{
+    padding: 5px 19px;
+    font-weight: bolder;
+    color: rgb(108,107,102);
+}
+.secondmain>div:hover{
+    background-color: #8ef880;
+}
+.number{
+    font-size: 30px;
+    padding: 1px 15px ;
+    color: rgb(108,107,102);
+    font-weight: bolder;
+}
+.padd{
+    font-size: 15px;
+    padding: 5px 10px;
+    color: rgb(108,107,102);
+    font-weight: bolder; 
+}
+
+.bar{
+    margin-top: 3%;
+    display: flex;
+}
+.bar>div{
+    height: 600px;
+    width: 50%;
+    /* border: 1px solid black; */
+}
+.bar>div>p{
+  font-size: 30px;
+}
+.lastbar{
+    display: flex;
+}
+
